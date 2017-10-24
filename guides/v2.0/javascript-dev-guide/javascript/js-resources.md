@@ -60,7 +60,7 @@ require(["Magento_ConfigurableProduct/js/configurable"], function(Configurable){
 
 {% collapsible Example 2 %}
 
-- File actual location: `app/code/design/frontend/Magento/blank/web/js/theme.js`
+- File actual location: `app/design/frontend/Magento/blank/web/js/theme.js`
 - File published to `pub/static`: `pub/static/frontend/Magento/<theme>/<locale>/js/theme.js`
 - Called in script:
 
